@@ -16,9 +16,6 @@ Enjoy your browse through my github!
 ![Spotify](https://novatorem-g4j08j2wb.vercel.app/api/spotify)]
 ---
 <br />
-### Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TesDevelopment)](https://github.com/anuraghazra/github-readme-stats)
-
 <br />
 <br />
 
