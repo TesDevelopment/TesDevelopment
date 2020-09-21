@@ -13,7 +13,7 @@ I spend most of my time either coding useless stuff,Xeron (My script hub),or chi
 Enjoy your browse through my github!
 
 ### Spotify Playing 🎧
-![Spotify](https://novatorem-g4j08j2wb.vercel.app/api/spotify)](https://open.spotify.com/user/6d6iz40l2ln8ss98k0lb82iqg)
+![Spotify](https://novatorem-g4j08j2wb.vercel.app/api/spotify)]
 ---
 <br />
 ### Top languages
