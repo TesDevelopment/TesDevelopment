@@ -12,9 +12,6 @@ I spend most of my time either coding useless stuff,Xeron (My script hub),or chi
 
 Enjoy your browse through my github!
 
-### Spotify Playing 🎧
-![Spotify](https://novatorem-g4j08j2wb.vercel.app/api/spotify)
-
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TesDevelopment&theme=dark)]()
 
