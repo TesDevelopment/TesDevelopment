@@ -13,7 +13,7 @@ I spend most of my time either coding useless stuff,Xeron (My script hub),or chi
 Enjoy your browse through my github!
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TesDevelopment&theme=dark)]()
+[![Stats](https://github-readme-stats.vercel.app/api?username=TesDevelopment)]
 
 <img align="left" alt="Tes's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TesDevelopment&show_icons=true&hide_border=true" />
 
