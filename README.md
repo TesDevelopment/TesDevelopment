@@ -4,11 +4,9 @@
 
 I mostly work in lua though I work in Java/C#/PHP Sometimes. Im a student interested in computer science.
 
-I know Java,Lua,PHP,MYSQL,C#, and Skript though I havent used Skript in years.
+I know JavaScript,Java,Lua,PHP,MYSQL,C#,GO, and Skript though I havent used Skript in years.
 
-Im currently learning JavaScript/EJS
-
-I spend most of my time either coding useless stuff,Xeron (My script hub),or chilling with freinds. Sometimes all of them at once.
+I spend most of my time either coding useless stuff or chilling with freinds. Sometimes both of them at once.
 
 Enjoy your browse through my github!
 
