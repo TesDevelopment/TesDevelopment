@@ -10,5 +10,9 @@ I spend most of my time either coding useless stuff or chilling with freinds. So
 
 Enjoy your browse through my github!
 
-<img align="left" alt="Tes's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TesDevelopment&show_icons=true&hide_border=true" />
+[![Stats](https://github-readme-stats.vercel.app/api?username=TesDevelopment&show_icons=true&count_private=true&theme=radical)]()
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TesDevelopment&hide=css&layout=compact&theme=radical)]()
 
+
+ps: thanks to pozm for the sexy theme. May or may not have asked to use it.
