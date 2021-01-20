@@ -15,4 +15,4 @@ Enjoy your browse through my github!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TesDevelopment&hide=css&layout=compact&theme=radical)]()
 
 
-ps: thanks to pozm for the sexy theme. May or may not have asked to use it.
+ps: thanks to pozm for the sexy theme. May or may not have asked to use it. ;)
