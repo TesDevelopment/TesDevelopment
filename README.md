@@ -27,7 +27,8 @@ Oeaborus/Immortalis - Lua whitelisting utility
 <details>
 <summary>📕Stats📕</summary>
 <br>
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=TesDevelopment&show_icons=true&count_private=true&theme=radical)]()
-  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TesDevelopment&hide=css&layout=compact&theme=radical)]()
 </details>
