@@ -17,15 +17,14 @@ Enjoy your browse through my github!
 Bftolua - Brainf*ck trans-compiler
 </details>
 
-details>
+<details>
 <summary>🚄Active Projects🚄</summary>
 <br>
 BrainBoom - Brainf*ck fork meant to increase functionality
 Oeaborus/Immortalis - Lua whitelisting utility
 </details>
 
-details>
-
+<details>
 <summary>📕Stats📕</summary>
 <br>
 [![Stats](https://github-readme-stats.vercel.app/api?username=TesDevelopment&show_icons=true&count_private=true&theme=radical)]()
