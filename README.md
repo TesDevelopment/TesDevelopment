@@ -20,7 +20,7 @@ Bftolua - Brainf*ck trans-compiler
 <details>
 <summary>🚄Active Projects🚄</summary>
 <br>
-BrainBoom - Brainf*ck fork meant to increase functionality
+BrainBoom - Brainf*ck fork meant to increase functionality \n
 Oeaborus/Immortalis - Lua whitelisting utility
 </details>
 
