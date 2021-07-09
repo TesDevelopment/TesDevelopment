@@ -14,7 +14,6 @@ Enjoy your browse through my github!
 <details>
 <summary>⭐️Favorite projects⭐️</summary>
 <br>
-Bftolua - Brainf*ck trans-compiler
 voom - Esoteric language
 </details>
 
