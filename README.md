@@ -15,13 +15,13 @@ Enjoy your browse through my github!
 <summary>⭐️Favorite projects⭐️</summary>
 <br>
 Bftolua - Brainf*ck trans-compiler
+voom - Esoteric language
 </details>
 
 <details>
 <summary>🚄Active Projects🚄</summary>
 <br>
-BrainBoom - Brainf*ck fork meant to increase functionality <br>
-Oeaborus/Immortalis - Lua whitelisting utility
+J - Coding Language
 </details>
 
 <details>
