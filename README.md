@@ -29,7 +29,7 @@ J - Coding Language
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=JoshDev&show_icons=true&count_private=true&theme=radical)]()
 
-[![Code Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TesDevelopment&show_icons=true&bg_color=0D1117&hide_border=true&text_color=fff&title_color=fff)]()
+[![Code Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoshDev&show_icons=true&bg_color=0D1117&hide_border=true&text_color=fff&title_color=fff)]()
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TesDevelopment&hide=css&layout=compact&theme=radical)]()
 </details>
