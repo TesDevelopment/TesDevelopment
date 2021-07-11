@@ -27,7 +27,7 @@ J - Coding Language
 <summary>📕Stats📕</summary>
 <br>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=TesDevelopment&show_icons=true&count_private=true&theme=radical)]()
+[![Stats](https://github-readme-stats.vercel.app/api?username=JoshDev&show_icons=true&count_private=true&theme=radical)]()
 
 [![Code Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TesDevelopment&show_icons=true&bg_color=0D1117&hide_border=true&text_color=fff&title_color=fff)]()
   
