@@ -1,5 +1,3 @@
-### Hello there 👋
-
 ### Im Josh
 Feel free to contact me at any time with my discord (315550713465929728).
   
